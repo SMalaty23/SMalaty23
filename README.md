@@ -27,5 +27,3 @@ I enjoy building software, experimenting with game modding, and solving problems
 
 * ⚡ **Fun fact:**
   I built my own custom leagues and national teams inside EA FC through modding and scripting.
-<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/8d4e9e33-4f11-4371-be1d-e5d0063cb957" />
-
