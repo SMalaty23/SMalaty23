@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02030146-227c-4b9a-9910-a23cc180b959" />
 
 <!--
 **SMalaty23/SMalaty23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
