@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Samer Malaty <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f351307e-e316-4c15-b823-82d80b5a9109" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93a58943-8ed4-4949-8741-39a7b5b6229c" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02030146-227c-4b9a-9910-a23cc180b959" /> 
+
 💻 Computer Science student at **El Camino College** working toward transferring to a four-year university.
 
 I enjoy building software, experimenting with game modding, and solving problems through code. Most of my projects revolve around C++, data handling, and tools related to soccer game modding.
